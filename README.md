@@ -16,7 +16,7 @@ Spring Boot + React 기반의 JWT 인증 게시판 시스템<br><br>
 
 | 구분             | 사용 기술                                   |
 | -------------- | --------------------------------------- |
-| **Frontend**   | React                                   |
+| **Frontend**   | React, vite                                   |
 | **Backend**    | Spring Boot 3.4.9, Spring Security, JPA |
 | **Database**   | MySQL                                   |
 | **인증/토큰 관리**   | JWT, Redis                              |
