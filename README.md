@@ -56,7 +56,7 @@ Spring Boot + React 기반의 JWT 인증 게시판 시스템<br><br>
 
 ### 🗂️ 파일 관리
 - `file_tbl`을 통한 첨부 파일 통합 관리
-- 저장 경로: `/springboard/{boardType}/`
+- 저장 경로: `/sp_board/files/board 또는 member/{type}/`
 - 파일명: `UUID_originalName.ext`
 
 ---
