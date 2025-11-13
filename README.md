@@ -4,10 +4,10 @@ Spring Boot + React 기반의 JWT 인증 게시판 시스템<br><br>
 
 ## 프로젝트 구성
 
-| 구분 | 저장소 | 설명 |
-|------|---------|------|
-| 🎨 **Frontend** | [spring-board-react](https://github.com/melly8954/spring-board-react) | React 기반 SPA 게시판 클라이언트 |
-| ⚙️ **Backend** | [sp-board](https://github.com/melly8954/sp_board) | Spring Boot 기반 REST API 서버 |
+| 구분 | 설명 | 저장소 |
+|------|------|---------|
+| 🎨 **Frontend** | React 기반 SPA 게시판 클라이언트 | [👉 이동하기](https://github.com/melly8954/spring-board-react) |
+| ⚙️ **Backend** | Spring Boot 기반 REST API 서버 | [👉 이동하기](https://github.com/melly8954/sp_board) |
 > JWT 인증 구조와 RESTful API 설계를 기반으로 React와 연동된 실무형 게시판 구현을 목표로 한 토이 프로젝트입니다.
 
 <br>
